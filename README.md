@@ -1,9 +1,9 @@
-#  Corrector de Postura 
+Corrector de Postura 
 
-##  Descripción del Proyecto:
+ Descripción del Proyecto:
 Un dispositivo  diseñado para monitorear la postura de la espalda en tiempo real y alertar al usuario mediante vibraciones cuando detecta una mala inclinación.
 
-## Equipo de Trabajo
+Equipo de Trabajo
 * **Isabel** — Hardware / Diseño Físico
 * **Juanita** — Hardware / PCB y Ensamble
 * **Felipe & Nicolás** — Documentación, Gestión de GitHub y Código en MicroPython
