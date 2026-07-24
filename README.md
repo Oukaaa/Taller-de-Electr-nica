@@ -8,8 +8,8 @@ Un dispositivo  diseñado para monitorear la postura de la espalda en tiempo rea
 * **Juanita** — Hardware / PCB y Ensamble
 * **Felipe & Nicolás** — Documentación, Gestión de GitHub y Código en MicroPython
 
-## 🛠️ Materiales y Componentes (Hardware)
+##  Materiales y Componentes (Hardware)
 *
 
-## 🚀 ¿Cómo funciona?
+##  ¿Cómo funciona?
 1.
