@@ -10,6 +10,16 @@ Un dispositivo diseñado para monitorear la postura de la espalda en tiempo real
 
 ##  Materiales, Componentes y Software
 * **Microcontrolador:** ESP32-S3
+* * **Sensor de movimiento:** MPU-6050 (Acelerómetro + Giroscopio)
+* **Motores vibradores tipo moneda (x2)**
+* **Transistor NPN 2N2222**
+* **Diodos de protección (Flyback)**
+* **Resistencia 1k ohms para la base del transistor**
+* **Batería Li-Po 3.7 V**
+* **Módulo cargador TP4056 con protección**
+* **Convertidor elevador DC-DC (Step-Up) de 3.7 V a 5 V**
+* **PCB personalizada**
+* **Cables, conectores y pines macho/hembra**
 * **Lenguaje:** MicroPython
 * **Entorno de desarrollo (IDE):** Thonny IDE
 * **Diseño 3D (Case):** Onshape
